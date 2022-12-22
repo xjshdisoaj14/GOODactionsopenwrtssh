@@ -1,5 +1,9 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+
+cd openwrt && make menuconfig
+完成后按Ctrl+D组合键或执行exit命令退出，后续编译工作将自动进行。
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
